@@ -11,7 +11,7 @@ const Banner = () => {
       <div className="md:flex items-center justify-between py-16 ">
         <div>
           <Fade bottom>
-            <h1 className="text-white text-[2rem] md:text-[4rem] font-medium text-center md:text-start">Kelvin Sowah</h1>
+            <h1 className="text-white text-[2rem] md:text-[4rem] font-medium text-center md:text-start">John Doe</h1>
 
           </Fade>
 
